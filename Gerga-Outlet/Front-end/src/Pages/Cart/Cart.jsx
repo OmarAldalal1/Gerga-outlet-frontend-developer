@@ -1,7 +1,7 @@
 import React from "react";
 import { FaMinus, FaPlus, FaTrashAlt } from "react-icons/fa";
 import { useCart } from "@/context/CartContext";
-import TrendingSection from "@/Components/Homepage/trendingSection";
+import TrendingSection from "@/components/Homepage/trendingSection";
 import { useNavigate } from "react-router-dom";
 
 export default function Cart() {

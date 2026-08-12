@@ -1,10 +1,10 @@
-import { Button } from "@/Components/ui/button";
+import { Button } from "@/components/ui/button";
 
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupInput,
-} from "@/Components/ui/input-group";
+} from "@/components/ui/input-group";
 
 import {
   Select,
@@ -17,7 +17,7 @@ import {
 } from "@/components/ui/select";
 
 import axios from "axios";
-import CardProduct from "../../Components/Card/cardProduct";
+import CardProduct from "../../components/Card/cardProduct";
 import { SearchIcon } from "lucide-react";
 import { useEffect, useState } from "react";
 

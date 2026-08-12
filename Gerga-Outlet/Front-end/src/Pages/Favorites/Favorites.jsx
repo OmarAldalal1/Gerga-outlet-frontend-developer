@@ -1,7 +1,7 @@
 import { useWishlist } from "@/context/WishlistContext";
 import { useCart } from "@/context/CartContext";
 import { FaHeart, FaTrashAlt } from "react-icons/fa";
-import CardProduct from "@/Components/Card/cardProduct";
+import CardProduct from "@/components/Card/cardProduct";
 import { Link } from "react-router-dom";
 
 export default function Favorites() {

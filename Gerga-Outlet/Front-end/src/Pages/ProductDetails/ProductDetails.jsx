@@ -1,7 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 import { FaStar, FaMinus, FaRegHeart, FaHeart } from "react-icons/fa";
 import { FaPlus } from "react-icons/fa6";
-import TrendingSection from "@/Components/Homepage/trendingSection";
+import TrendingSection from "@/components/Homepage/trendingSection";
 import { useLocation, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useCart } from "@/context/CartContext";

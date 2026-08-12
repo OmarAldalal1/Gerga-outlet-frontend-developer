@@ -1,8 +1,8 @@
-import HeroSection from "../../Components/Homepage/heroSection";
-import CategorySection from "../../Components/Homepage/categorySection";
-import TrendingSection from "../../Components/Homepage/trendingSection";
-import NewsletterSection from "../../Components/Homepage/newsletterSection";
-import FiveSection from "../../Components/Homepage/fiveSection";
+import HeroSection from "../../components/Homepage/heroSection";
+import CategorySection from "../../components/Homepage/categorySection";
+import TrendingSection from "../../components/Homepage/trendingSection";
+import NewsletterSection from "../../components/Homepage/newsletterSection";
+import FiveSection from "../../components/Homepage/fiveSection";
 export default function Home() {
   return (
     <>

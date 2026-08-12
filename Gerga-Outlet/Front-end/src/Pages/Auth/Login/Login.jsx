@@ -8,7 +8,7 @@ import { Checkbox } from "@/components/ui/checkbox";
 
 import { CiMail } from "react-icons/ci";
 import { MdLockOutline } from "react-icons/md";
-import { Button } from "@/Components/ui/button";
+import { Button } from "@/components/ui/button";
 import { GrLinkNext } from "react-icons/gr";
 import { FaEye } from "react-icons/fa";
 import { IoEyeOff } from "react-icons/io5";
